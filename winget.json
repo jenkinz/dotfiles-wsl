@@ -1,0 +1,92 @@
+{
+	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate": "2021-07-09T13:15:02.358-00:00",
+	"Sources": [
+		{
+			"Packages": [
+				{
+					"PackageIdentifier": "Microsoft.VisualStudio.2019.Community"
+				},
+				{
+					"PackageIdentifier": "AgileBits.1Password"
+				},
+				{
+					"PackageIdentifier": "7zip.7zip"
+				},
+				{
+					"PackageIdentifier": "BraveSoftware.BraveBrowser"
+				},
+				{
+					"PackageIdentifier": "Canonical.Ubuntu"
+				},
+				{
+					"PackageIdentifier": "Ditto.Ditto"
+				},
+				{
+					"PackageIdentifier": "Docker.DockerDesktop"
+				},
+				{
+					"PackageIdentifier": "Git.Git"
+				},
+				{
+					"PackageIdentifier": "LLVM.LLVM"
+				},
+				{
+					"PackageIdentifier": "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier": "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier": "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier": "Notepad++.Notepad++"
+				},
+				{
+					"PackageIdentifier": "Microsoft.Office"
+				},
+				{
+					"PackageIdentifier": "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier": "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier": "marha.VcXsrv"
+				},
+				{
+					"PackageIdentifier": "PuTTY.PuTTY"
+				},
+				{
+					"PackageIdentifier": "Python.Python.3"
+				},
+				{
+					"PackageIdentifier": "TortoiseGit.TortoiseGit"
+				},
+				{
+					"PackageIdentifier": "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier": "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier": "Python.Python.3"
+				},
+				{
+					"PackageIdentifier": "Cisco.WebexTeams"
+				},
+				{
+					"PackageIdentifier": "Microsoft.PowerToys"
+				}
+			],
+			"SourceDetails": {
+				"Argument": "https://winget.azureedge.net/cache",
+				"Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name": "winget",
+				"Type": "Microsoft.PreIndexed.Package"
+			}
+		}
+	],
+	"WinGetVersion": "1.0.11692"
+}
