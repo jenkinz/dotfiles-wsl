@@ -4,12 +4,6 @@
 # Add all local binary paths to the system path.
 export PATH="${PATH}:${HOME}/.local/bin"
 
-# Add arm-none-eabi-toolchain to the system path.
-export PATH="${PATH}:/usr/gcc-arm-none-eabi-10-2020-q4-major/bin"
-
-# Set environment variables required for STM32 embedded builds.
-export STM32_TOOLCHAIN_PATH="/usr/gcc-arm-none-eabi-10-2020-q4-major"
-
 # Default programs to run.
 export EDITOR="vim"
 
