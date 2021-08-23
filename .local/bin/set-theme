@@ -68,7 +68,8 @@ THEMES = {
 
 
 def get_windows_user():
-    result = run(['powershell.exe', '$env:UserName'],
+    result = run(['/c/Windows/System32/WindowsPowerShell/v1.0/powershell.exe',
+                 '$env:UserName'],
                  stdout=PIPE,
                  universal_newlines=True)
     return result.stdout.rstrip()
