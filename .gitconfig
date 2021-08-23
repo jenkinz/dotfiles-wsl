@@ -8,3 +8,5 @@
 	path = ~/.gitconfig.user
 [credential]
 	helper = store
+[init]
+	defaultBranch = main
